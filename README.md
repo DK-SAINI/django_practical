@@ -25,3 +25,6 @@ MacOS/Linux: ``` source venv/bin/activate```
 ``` python manage.py migrate```
 - run development server.
 ``` python manage.py runserver```
+
+## Run Api
+http://127.0.0.1:8000/api/check_bearer
